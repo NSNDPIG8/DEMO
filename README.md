@@ -36,14 +36,3 @@ Xin chân thành cảm ơn các nguồn tài nguyên và thư viện mã nguồn
 - Cảm ơn tất cả các nội dung mà các thành viên trong nhóm đã góp ý
 - Cảm ơn cô Như Ý đã giảng dạy em trong quá trình vừa qua
 
-
-## 👥 Tác giả
-[hiucdh] - [https://github.com/hiucdh]
-
-## Các thành viên đã tham gia hoàn thành dự án
-- Vẽ khung web: Hiếu
-- Ý tưởng: Hiếu
-- Thực hiện: Hiếu
-- Debug: Hiếu
-- Bảo trì: Hiếu
-- Đau lưng gãy cột sống: Hiếu
